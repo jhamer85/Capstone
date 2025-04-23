@@ -22,6 +22,6 @@ This project walks through the full data analysis workflow:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (via Jupyter notebook with SQLite)  
 - Excel  
-- Looker (separate dashboard shared below)
+- Looker (separate dashboard shared)
 
 You’ll find visualizations and insights aimed at solving business-focused analytical problems.
